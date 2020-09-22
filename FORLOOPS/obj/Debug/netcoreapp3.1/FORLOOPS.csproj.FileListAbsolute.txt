@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.exe
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.deps.json
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.runtimeconfig.json
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.dll
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\bin\Debug\netcoreapp3.1\FORLOOPS.pdb
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.dll
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.pdb
+C:\Users\opilane\source\repos\FORLOOPS\FORLOOPS\obj\Debug\netcoreapp3.1\FORLOOPS.genruntimeconfig.cache
